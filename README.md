@@ -47,7 +47,9 @@ See the [Project Guidelines](Project_Guidelines_Fall2025.md) for more details.
 
 ## Course Notebooks
 
-Interactive materials will be added as the semester progresses.
+Explore the content through interactive Jupyter notebooks:
+
+1. [Chapter 1 — Fundamentals of Probabilities](Notebooks/Chap_1_Exercises.ipynb)
 
 ---
 
